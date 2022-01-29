@@ -1,0 +1,60 @@
+/* producto */
+.trj {
+  border-bottom: 3px solid #a08246;
+}
+
+h1 {
+  color: black;
+  text-shadow: none;
+}
+
+.producto-name {
+  color: black;
+  padding: 30px;
+}
+
+.btn-comprar {
+  background-image: -webkit-gradient(linear, right top, left top, from(black), to(#181818));
+  background-image: linear-gradient(to left, black, #181818);
+  color: white;
+  border: outset #a08246;
+  margin: 15px 0px;
+  padding: 1.7%;
+  width: 28%;
+}
+
+.btn-comprar:hover {
+  background: white;
+  color: black;
+  border: inset #a08246;
+}
+
+.vd {
+  text-align: center;
+}
+
+.video {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 80%;
+}
+
+.caracteristicas {
+  color: white;
+  text-align: center;
+}
+
+.caracteristicas ul {
+  text-align: center;
+  list-style: none;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.caracteristicas-li {
+  font-size: 1.7em;
+  text-decoration: underline;
+}
+/*# sourceMappingURL=pr-estilo.css.map */
